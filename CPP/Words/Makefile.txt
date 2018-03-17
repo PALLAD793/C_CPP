@@ -1,0 +1,25 @@
+all: zadanie1
+
+zadanie1: main.o Menu.o Collection.o Administration.o Operations.o
+	g++ -o zadanie1 $^
+
+main.o: main.cpp
+	g++ -c -o main.o main.cpp
+
+Menu.o: Menu.cpp Menu.h
+	g++ -c -o Menu.o Menu.cpp
+
+Collection.o: Collection.cpp Collection.h
+	g++ -c -o Collection.o Collection.cpp
+
+Administration.o: Administration.cpp Administration.h
+	g++ -c -o Administration.o Administration.cpp
+
+Operations.o: Operations.cpp Operations.h
+	g++ -c -o Operations.o Operations.cpp
+
+clean:
+	rm -f *.o zadanie1
+
+.PHONY: all clean
+

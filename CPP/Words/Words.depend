@@ -1,0 +1,110 @@
+# depslib dependency file v1.0
+1490621027 source:c:\users\net\desktop\praca\c++\eiti\17l\z1\words\collection.cpp
+	"Collection.h"
+	<vector>
+	<algorithm>
+	<string.h>
+
+1490547484 
+
+1490550787 source:c:\users\net\desktop\praca\c++\eiti\17l\z1\words\main.cpp
+	"Menu.h"
+
+1490622153 c:\users\net\desktop\praca\c++\eiti\17l\z1\words\menu.h
+	"Administration.h"
+	"Operations.h"
+	"Tests.h"
+
+1490622223 source:c:\users\net\desktop\praca\c++\eiti\17l\z1\words\menu.cpp
+	"Menu.h"
+	"Administration.h"
+	"Operations.h"
+	<cstdlib>
+	<iostream>
+	<conio.h>
+	<assert.h>
+
+1490547119 c:\users\net\desktop\praca\c++\eiti\17l\z1\words\collection.h
+	<vector>
+	<string>
+
+1490557961 source:c:\users\net\desktop\praca\c++\eiti\17l\z1\words\administration.cpp
+	"Administration.h"
+
+1490621958 ation.h"
+
+1490547484 c:\users\net\desktop\praca\c++\eiti\17l\z1\words\administration.h
+	"Collection.h"
+	<string>
+
+1490549989 source:c:\users\net\desktop\praca\c++\eiti\17l\z1\words\operations.cpp
+	"Operations.h"
+	<algorithm>
+
+1490549989 >
+
+1490549989 c:\users\net\desktop\praca\c++\eiti\17l\z1\words\operations.h
+	"Collection.h"
+
+1490549989 n.h"
+
+1490622341 c:\users\net\desktop\praca\c++\eiti\17l\z1\words\tests.h
+	<assert.h>
+
+1490621958 source:c:\users\net\desktop\praca\c++\eiti\17l\z1\words\tests.cpp
+	"Tests.h"
+	"Collection.h"
+	"Operations.h"
+	"Administration.h"
+
+1490557961 source:/home/mion/s/167/bjedrzej/Desktop/imio/Zadanie1/Words/Administration.cpp
+	"Administration.h"
+
+1490547484 /home/mion/s/167/bjedrzej/Desktop/imio/Zadanie1/Words/Administration.h
+	"Collection.h"
+	<string>
+
+1490547119 /home/mion/s/167/bjedrzej/Desktop/imio/Zadanie1/Words/Collection.h
+	<vector>
+	<string>
+
+1490621027 source:/home/mion/s/167/bjedrzej/Desktop/imio/Zadanie1/Words/Collection.cpp
+	"Collection.h"
+	<vector>
+	<algorithm>
+	<string.h>
+
+1490550787 source:/home/mion/s/167/bjedrzej/Desktop/imio/Zadanie1/Words/main.cpp
+	"Menu.h"
+
+1490622153 /home/mion/s/167/bjedrzej/Desktop/imio/Zadanie1/Words/Menu.h
+	"Administration.h"
+	"Operations.h"
+	"Tests.h"
+
+1490549989 /home/mion/s/167/bjedrzej/Desktop/imio/Zadanie1/Words/Operations.h
+	"Collection.h"
+
+1490622341 /home/mion/s/167/bjedrzej/Desktop/imio/Zadanie1/Words/Tests.h
+	<assert.h>
+
+1490549989 source:/home/mion/s/167/bjedrzej/Desktop/imio/Zadanie1/Words/Operations.cpp
+	"Operations.h"
+	<algorithm>
+
+1490622341 source:/home/mion/s/167/bjedrzej/Desktop/imio/Zadanie1/Words/Tests.cpp
+	"Tests.h"
+	"Collection.h"
+	"Operations.h"
+	"Administration.h"
+
+1490869704 source:/home/mion/s/167/bjedrzej/Desktop/imio/Zadanie1/Words/Menu.cpp
+	"Menu.h"
+	"Administration.h"
+	"Operations.h"
+	<cstdlib>
+	<iostream>
+	<assert.h>
+	<conio.h>
+	<ncurses.h>
+

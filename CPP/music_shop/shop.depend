@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1495873734 source:c:\users\demo\desktop\sklep_muzyczny\shop\main.cpp
+	"Menu.h"
+	<cstdlib>
+	<string>
+
+1495873734 c:\users\demo\desktop\sklep_muzyczny\shop\menu.h
+	<string>
+
+1495873734 source:c:\users\net\desktop\praca\c++\eiti\17l\z3\shop\main.cpp
+	"Menu.h"
+	<cstdlib>
+	<string>
+
+1495981958 c:\users\net\desktop\praca\c++\eiti\17l\z3\shop\menu.h
+	<string>
+	"Shop.h"
+	"Client.h"
+	"Supply.h"
+	"Invoice.h"
+
+1495925173 source:c:\users\net\desktop\praca\c++\eiti\17l\z3\shop\client.cpp
+	"Client.h"
+
+1495982119 c:\users\net\desktop\praca\c++\eiti\17l\z3\shop\client.h
+	<string>
+
+1495990551 source:c:\users\net\desktop\praca\c++\eiti\17l\z3\shop\menu.cpp
+	"Menu.h"
+	<cstdlib>
+	<iostream>
+	<cstdio>
+	<conio.h>
+	<assert.h>
+	<conio.h>
+	<ncurses.h>
+
+1495971640 source:c:\users\net\desktop\praca\c++\eiti\17l\z3\shop\product.cpp
+	"Product.h"
+
+1495962237 c:\users\net\desktop\praca\c++\eiti\17l\z3\shop\product.h
+	<string>
+
+1495981958 source:c:\users\net\desktop\praca\c++\eiti\17l\z3\shop\shop.cpp
+	"Shop.h"
+
+1495965203 source:c:\users\net\desktop\praca\c++\eiti\17l\z3\shop\supply.cpp
+	"Supply.h"
+
+1495965203 c:\users\net\desktop\praca\c++\eiti\17l\z3\shop\supply.h
+	"Product.h"
+	<vector>
+
+1495981958 c:\users\net\desktop\praca\c++\eiti\17l\z3\shop\shop.h
+	"Client.h"
+	"Supply.h"
+	"Invoice.h"
+	<vector>
+
+1495985601 source:c:\users\net\desktop\praca\c++\eiti\17l\z3\shop\invoice.cpp
+	"Invoice.h"
+
+1495983803 c:\users\net\desktop\praca\c++\eiti\17l\z3\shop\invoice.h
+	"Client.h"
+	"Product.h"
+	"Supply.h"
+

@@ -1,0 +1,86 @@
+# depslib dependency file v1.0
+1493585651 source:c:\users\net\desktop\praca\c++\eiti\17l\z2\lorenz_cipher\main.cpp
+	"Menu.h"
+	<cstdlib>
+	<string>
+	<ctime>
+
+1493589473 c:\users\net\desktop\praca\c++\eiti\17l\z2\lorenz_cipher\menu.h
+	<string>
+	"Rotor.h"
+	"Cipher.h"
+
+1493588217 source:c:\users\net\desktop\praca\c++\eiti\17l\z2\lorenz_cipher\menu.cpp
+	"Menu.h"
+	"Rotor.h"
+	"Cipher.h"
+	<cstdlib>
+	<iostream>
+	<cstdio>
+	<conio.h>
+	<assert.h>
+	<conio.h>
+	<ncurses.h>
+
+1493589172 c:\users\net\desktop\praca\c++\eiti\17l\z2\lorenz_cipher\rotor.h
+	<cstdio>
+	<cstdlib>
+	"Menu.h"
+	"Cipher.h"
+
+1493580743 source:c:\users\net\desktop\praca\c++\eiti\17l\z2\lorenz_cipher\rotor.cpp
+	"Menu.h"
+	<cstdlib>
+
+1493569888 source:c:\users\net\desktop\praca\c++\eiti\17l\z2\lorenz_cipher\cipher.cpp
+
+1493590982 c:\users\net\desktop\praca\c++\eiti\17l\z2\lorenz_cipher\cipher.h
+	"Rotor.h"
+	"Menu.h"
+	<string>
+
+1493645851 source:c:\users\net\desktop\nowy folder (7)\pr3\2\lorenz_cipher\cipher.cpp
+	"Cipher.h"
+	"Rotor.h"
+	<iostream>
+	<string.h>
+
+1493634786 source:c:\users\net\desktop\nowy folder (7)\pr3\2\lorenz_cipher\main.cpp
+	"Menu.h"
+	<cstdlib>
+	<string>
+	<ctime>
+
+1493652540 c:\users\net\desktop\nowy folder (7)\pr3\2\lorenz_cipher\menu.h
+	<string>
+	"Rotor.h"
+	"Cipher.h"
+
+1493646124 c:\users\net\desktop\nowy folder (7)\pr3\2\lorenz_cipher\rotor.h
+	<cstdio>
+	<cstdlib>
+	<string>
+
+1493645992 c:\users\net\desktop\nowy folder (7)\pr3\2\lorenz_cipher\cipher.h
+	"Rotor.h"
+	<string>
+
+1493652588 source:c:\users\net\desktop\nowy folder (7)\pr3\2\lorenz_cipher\menu.cpp
+	"Menu.h"
+	"Rotor.h"
+	"Cipher.h"
+	<cstdlib>
+	<iostream>
+	<cstdio>
+	<conio.h>
+	<assert.h>
+	<fstream>
+	<conio.h>
+	<ncurses.h>
+
+1493580743 source:c:\users\net\desktop\nowy folder (7)\pr3\2\lorenz_cipher\rotor.cpp
+	"Menu.h"
+	<cstdlib>
+
+1493652177 c:\users\net\desktop\nowy folder (7)\pr3\2\lorenz_cipher\tests.h
+
